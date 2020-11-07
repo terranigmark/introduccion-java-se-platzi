@@ -15,5 +15,9 @@ public class NamingJava {
         int POSITION = -5;
         int MAX_WIDTH = 9999;
         int MIN_WIDTH = 1;
+
+        // lower camel case
+        String fullName = "Hector Daniel Vega Quinones";
+        int sizeInCentimeters = 30;
     }
 }
